@@ -1,0 +1,6 @@
+{
+  "name": "ChronoLens AR",
+  "description": "Augmented-Reality Time-Capsule Camera for spatial historical overlays, temporal optical calibration, and geo-anchored memory capsules.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
